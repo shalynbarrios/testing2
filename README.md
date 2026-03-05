@@ -1,10 +1,14 @@
 <div align="center">
+  <img width="400" alt="Discover Computing Logo" src="https://github.com/user-attachments/assets/93548af3-2d8c-4722-951a-4861f4b8488c" />
+</div>
+
+<div align="center">
 
 # 🖥️ Discover Computing
 
 ### *Hands-on programming education through creative computing.*
 
-*Empowering students to build, create, and explore through project-based coding experiences.*
+*Discover Computing is a multi-series program designed to build a deeper and more diverse pool of students pursuing computer science and tech-related fields of study in Illinois.*
 
 ---
 
@@ -22,21 +26,23 @@
 
 **Discover Computing** is a **5-day, project-based programming program** designed to introduce students to modern development tools, creative coding, and machine learning. Through hands-on projects, students move from writing their first lines of code to building interactive games and real-time machine learning applications.
 
+Throughout the p5.js series of the Discover Computing Program, participating 9th and 10th graders will CONNECT with their inner artist through creative coding projects using JavaScript and the p5.js platform. Participants will design and program!
+
 ### 🎯 Key Learning Outcomes
 
-- ✅ Navigate GitHub workflows — repos, branches, commits, and Codespaces
-- ✅ Build interactive visuals and animations using **p5.js**
-- ✅ Understand real-time rendering at **60 frames per second**
-- ✅ Design game mechanics including movement, input, and scoring systems
-- ✅ Train and deploy custom **machine learning models** using a webcam
-- ✅ Connect ML predictions to live program behavior
-- ✅ Build a functional **paint application** from scratch
+- Navigate GitHub workflows — repos, branches, commits, and Codespaces
+- Build interactive visuals and animations using **p5.js**
+- Understand real-time rendering at **60 frames per second**
+- Design game mechanics including movement, input, and scoring systems
+- Train and deploy custom **machine learning models** using a webcam
+- Connect ML predictions to live program behavior
+- Build a functional **paint application** from scratch
 
 ---
 
 ## 📅 Program Curriculum
 
-The program spans **five days**, each focused on a distinct computing concept — building progressively from foundational tools to creative and intelligent applications.
+The program spans **five days**, each focused on a computing concept — building progressively from foundational tools like Github to creative and artistic applications like "Alien Doggos" on Day 1 or AI by Day 5!
 
 ---
 
@@ -73,11 +79,11 @@ function draw() {
 
 > Students discovered how real-time rendering works by observing how p5.js redraws the canvas every frame.
 
-📁 [Project Repository Link Here]
+<img width="354" height="231" alt="Screenshot 2026-03-05 at 4 57 41 PM" src="https://github.com/user-attachments/assets/0d0dbb25-9721-41e9-9f58-44c84ec469f1" />
 
 ---
 
-### Day 2 — Interactive Graphics
+### Day 2 — Built-in Functions and Graphics
 
 **Topics Covered:**
 
@@ -101,7 +107,9 @@ function draw() {
 }
 ```
 
-📁 [Example Project Link Here]
+<img width="353" height="229" alt="Screenshot 2026-03-05 at 4 58 41 PM" src="https://github.com/user-attachments/assets/dd60d79a-926a-4abd-b241-f34745543131" />
+
+
 
 ---
 
@@ -132,7 +140,8 @@ function collectCoin() { score += 1; } // increments coin counter
 
 > Students learned how **functions encapsulate game logic** — keeping code clean, readable, and reusable.
 
-📁 [Game Demo Link Here]
+
+<img width="355" height="235" alt="Screenshot 2026-03-05 at 4 59 05 PM" src="https://github.com/user-attachments/assets/267b148e-8187-45cd-befb-f0a7d609a8a2" />
 
 ---
 
@@ -197,7 +206,8 @@ function draw() {
 
 As the cursor moves with the button held, new circles are drawn each frame — creating the appearance of a **continuous brush stroke**. Students effectively built their own drawing application from first principles.
 
-📁 [Paint Tool Demo Link Here]
+<img width="362" height="233" alt="Screenshot 2026-03-05 at 5 00 05 PM" src="https://github.com/user-attachments/assets/86b56a10-21ac-494b-bc00-3d12f0ee522b" />
+
 
 ---
 
